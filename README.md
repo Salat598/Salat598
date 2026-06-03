@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Salat598
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning php and ReactJs
+- 👀 I’m Enthusiastic about cybersecuirty
 - 💞️ I’m looking to collaborate on projects building
-- 📫 How to reach me www.linkedin.com/in/salat-issak
+- 📫 How to reach me www.linkedin.com/in/salat-ictspecialist
 
 <!---
 Salat598/Salat598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
